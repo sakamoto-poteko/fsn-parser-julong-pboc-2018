@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="id_desc">
+  <WarnId_Describ>
+    <Support id="0" describ="Normal" />
+    <Support id="1-199" describ="image Error" />
+    <Support id="201-203" describ="UV Error" />
+    <Support id="211-214" describ="UV Error" />
+    <Support id="50-52" describ="Image Unknow ABNORMAL" />
+    <Support id="111-112" describ="Image Size ABNORMAL" />
+    <Support id="200-249" describ="UV Error" />
+    <Support id="259-299" describ="Infrared Optics" />
+    <Support id="256" describ="UV Error" />
+    <Support id="300-499" describ="Suspected Note" />
+    <Support id="351-355" describ="MG Error" />
+    <Support id="360" describ="Image MG Error" />
+    <Support id="454" describ="MG Error" />
+    <Support id="455" describ="MG Error" />
+    <Support id="456" describ="MG Error" />
+    <Support id="458" describ="MG Error" />
+    <Support id="500-549" describ="Other" />
+    <Support id="501" describ="SN Error" />
+    <Support id="503" describ="SN Match Error" />
+    <Support id="514" describ="Suspected Note" />
+    <Support id="515" describ="SN Error" />
+    <Support id="550-569" describ="Other" />
+    <Support id="551" describ="Image Angle " />
+    <Support id="552" describ="Image Damaged" />
+    <Support id="553" describ="Chained Notes" />
+    <Support id="554" describ="Image Damaged" />
+    <Support id="555" describ="Image Angle " />
+    <Support id="556" describ="Chained Notes" />
+    <Support id="568" describ="Dog ear" />
+    <Support id="570-580" describ="Other" />
+    <Support id="580" describ="Stained" />
+    <Support id="581" describ="Double Notes" />
+    <Support id="582" describ="Chained Notes" />
+    <Support id="583" describ="Chained Notes" />
+    <Support id="600-619" describ="Adhesive Tape" />
+    <Support id="620-999" describ="Other" />
+    <Support id="901" describ="Different Denomination" />
+    <Support id="902" describ="Different Version" />
+    <Support id="905" describ="Suspected Note" />
+    <Support id="906" describ="Suspected Note" />
+    <Support id="907" describ="Suspected Note" />
+    <Support id="910" describ="Suspected Note" />
+    <Support id="913" describ="RMB Version 1999" />
+    <Support id="914" describ="Recycle Version" />
+  </WarnId_Describ>
+  <SelfCheckId_Describ>
+    <Support id="3001" level="1" describ="Virtual Device Turned On" hidden="false" />
+    <Support id="3002" level="2" describ="Virtual Device Error" hidden="false" />
+    <Support id="3003" level="3" describ="Printers Error" hidden="false" />
+    <Support id="3004" level="4" describ="Network Error" hidden="true" />
+    <Support id="3005" level="5" describ="U-Disk Error" hidden="true" />
+    <Support id="3006" level="6" describ="TF-Card Error" hidden="true" />
+    <Support id="3007" level="7" describ="RTC Function Error" hidden="false" />
+    <Support id="3008" level="8" describ="Screen Communicate Error" hidden="false" />
+    <Support id="3009" level="9" describ="RTC Error" hidden="false" />
+    <Support id="3010" level="10" describ="Security Module Communication Error" hidden="false" />
+    <Support id="3011" level="11" describ="Security Module Error" hidden="false" />
+    <Support id="3012" level="11" describ="inactivated" hidden="false" />
+    <Support id="3101" level="12" describ="Motor Speed Error" hidden="false" />
+    <Support id="3102" level="13" describ="Encoder Error" hidden="false" />
+    <Support id="3201" level="14" describ="BM Error" hidden="false" />
+    <Support id="3202" level="15" describ="R-MG Error" hidden="false" />
+    <Support id="3203" level="16" describ="HD Error" hidden="false" />
+    <Support id="3204" level="17" describ="L-MG Error" hidden="false" />
+    <Support id="3205" level="18" describ="R-M-MG Error" hidden="false" />
+    <Support id="3206" level="19" describ="L-M-MG Error" hidden="false" />
+    <Support id="3300" level="20" describ="IRRC Error" hidden="false" />
+    <Support id="3301" level="21" describ="IRR1 Error" hidden="false" />
+    <Support id="3302" level="22" describ="IRR2 Error" hidden="false" />
+    <Support id="3303" level="23" describ="IRR3 Error" hidden="false" />
+    <Support id="3310" level="24" describ="IRLC Error" hidden="false" />
+    <Support id="3311" level="25" describ="IRL1 Error" hidden="false" />
+    <Support id="3312" level="26" describ="IRL2 Error" hidden="false" />
+    <Support id="3313" level="27" describ="IRL3 Error" hidden="false" />
+    <Support id="3401" level="28" describ="Lower CIS Error" hidden="false" />
+    <Support id="3402" level="29" describ="Upper CIS Error" hidden="false" />
+    <Support id="3403" level="1" describ="Uninitialized" hidden="false"/>
+    <Support id="3501" level="30" describ="Feeding sensor Error" hidden="false" />
+    <Support id="3502" level="31" describ="Stack Sensor Error" hidden="false" />
+    <Support id="3901" level="32" describ="Cover Abnormal" hidden="false" />
+    <Support id="3902" level="1" describ="Motor Locked-no card" hidden="false" />
+    <Support id="3903" level="1" describ="File Recovered" hidden="false"/>
+    <Support id="3904" level="1" describ="Upgrade Package Error" hidden="false"/>
+    <Support id="3905" level="1" describ="Please Set The Time" hidden="false"/>
+    <Support id="3908" level="1" describ="CIS failure" hidden="false"/>
+    <Support  id="3103"  level="38" describ="Motor Speed Error" hidden="false"/>
+  </SelfCheckId_Describ>
+</Configuration>
